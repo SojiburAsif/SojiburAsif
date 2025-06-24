@@ -22,6 +22,19 @@
 
 ---
 
+
+---
+
+# 🚀 My Projects
+
+| Project Name          | Description                         | Live Demo / Repo Link                  |
+|----------------------|-----------------------------------|--------------------------------------|
+| [Project One](https://github.com/SojiburAsif/project-one) | A MERN stack app for task management | [Live Demo](https://projectone.example.com) |
+| [Project Two](https://github.com/SojiburAsif/project-two) | E-commerce website built with Next.js | [Live Demo](https://projecttwo.example.com) |
+| [Project Three](https://github.com/SojiburAsif/project-three) | Personal portfolio site using React | [Live Demo](https://projectthree.example.com) |
+
+
+
 # 🧹 Tools I Use:
 - **Visual Studio Code (VS Code)**
 - **Postman**
