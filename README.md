@@ -2,8 +2,12 @@
   <img src="https://i.postimg.cc/kXkTh6FB/Black-Modern-Vlogger-You-Tube-Banner.png" alt="Banner" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Sojibur+Rahman+Asif;MERN+Stack+Developer;JavaScript+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</p>
+
 # 👋 Hi, I'm Sojibur Rahman 
-📍 From Bangladesh | 📫 sojiburrahman.web@gmail.com
+📍 From Bangladesh | 📫 sojiburrahman.web@gmail.com  
 ### Full Stack MERN Developer | JavaScript Enthusiast | Problem Solver
 
 ---
@@ -35,9 +39,9 @@ I'm a passionate **MERN Stack** web development student, currently working on re
 ## 🚀 Projects  
 
 | Project    | Description                      | Live Demo                                       |
-|------------|---------------------------------|------------------------------------------------|
-| **WorkLoop** | Work services related website  | [View Demo](https://celadon-griffin-404747.netlify.app/) |
-| **Tasky**   | Freelancing platform web app   | [View Demo](https://symphonious-bubblegum-ad2f44.netlify.app/) |
+|------------|----------------------------------|------------------------------------------------|
+| **WorkLoop** | Work services related website   | [View Demo](https://celadon-griffin-404747.netlify.app/) |
+| **Tasky**   | Freelancing platform web app    | [View Demo](https://symphonious-bubblegum-ad2f44.netlify.app/) |
 
 ---
 
