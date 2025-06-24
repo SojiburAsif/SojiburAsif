@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/kXkTh6FB/Black-Modern-Vlogger-You-Tube-Banner.png" alt="Banner" />
+  <img src="https://i.postimg.cc/vBgzzGgW/Chat-GPT-Image-Jun-25-2025-02-48-44-AM.png" alt="Banner" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Sojibur Rahman 
 📍 From Bangladesh | 📫 sojiburrahman.web@gmail.com  
-### Full Stack MERN Developer | JavaScript Enthusiast | Problem Solver
+### Full Stack MERN Developer | JavaScript  | React JS | MongoDB | Node JS
 
 ---
 
