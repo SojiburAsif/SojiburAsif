@@ -10,7 +10,9 @@ I'm a passionate **MERN Stack** web development student, currently working on re
 - Actively learning backend optimization and database design  
 
 ---
-
+💻 JavaScript | React | Node.js | Express | MongoDB  
+🌐 Building dynamic web apps with clean code & intuitive UX  
+📍 From Bangladesh | 📫 sojibur.dev@gmail.com
 ## 💻 Skills  
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  
