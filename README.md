@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/J4yTqcXf/Black-Modern-Vlogger-You-Tube-Banner.png" alt="Banner" />
+  <img src="https://i.postimg.cc/kXkTh6FB/Black-Modern-Vlogger-You-Tube-Banner.png" alt="Banner" />
 </p>
 
 # 👋 Hi, I'm Sojibur Rahman 
