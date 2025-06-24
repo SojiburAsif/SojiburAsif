@@ -2,13 +2,6 @@
 🎓 I'm a dedicated **MERN Stack** web development student, currently honing my skills through real-world projects using **JavaScript, Next.js, Node.js, and MongoDB Atlas**.  
 🔍 I enjoy building robust full-stack applications and solving backend challenges.  
 💬 **Ask me about**: Node.js, Express.js, MongoDB, React, Next.js, Tailwind CSS, React Router  
-📢 **Connect with me**:  
-&nbsp;&nbsp;&nbsp;&nbsp;[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1BeD8HLKm8/)  
-&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/f_asif77?igsh=MWhoN3RnazBqeHZyYw==)  
-&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
-&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)  
-&nbsp;&nbsp;&nbsp;&nbsp;[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)  
-
 ⚡ **Fun fact**: I genuinely enjoy debugging and solving logic puzzles – they feel like brain games to me!
 
 ---
@@ -43,3 +36,12 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=SojiburAsif&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+# 📫 Connect with me:
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1BeD8HLKm8/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/f_asif77?igsh=MWhoN3RnazBqeHZyYw==)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
