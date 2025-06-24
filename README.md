@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/gjgpdysy/Chat-GPT-Image-Jun-25-2025-01-49-49-AM.png" alt="Banner" />
+  <img src="https://i.postimg.cc/J4yTqcXf/Black-Modern-Vlogger-You-Tube-Banner.png" alt="Banner" />
 </p>
 
 # 👋 Hi, I'm Sojibur Rahman 
