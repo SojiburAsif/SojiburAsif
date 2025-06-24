@@ -25,13 +25,16 @@
 
 ---
 
+---
+
 # 🚀 My Projects
 
-| Project Name          | Description                         | Live Demo / Repo Link                  |
-|----------------------|-----------------------------------|--------------------------------------|
-| [Project One](https://github.com/SojiburAsif/project-one) | A MERN stack app for task management | [Live Demo](https://projectone.example.com) |
-| [Project Two](https://github.com/SojiburAsif/project-two) | E-commerce website built with Next.js | [Live Demo](https://projecttwo.example.com) |
-| [Project Three](https://github.com/SojiburAsif/project-three) | Personal portfolio site using React | [Live Demo](https://projectthree.example.com) |
+| Project Name | Description                    | Live Demo                                 |
+|--------------|--------------------------------|-------------------------------------------|
+| ![Workloop](https://img.shields.io/badge/Workloop-0D8ABC?style=for-the-badge&logo=netlify&logoColor=white) | Work services related webside | [Live Demo](https://celadon-griffin-404747.netlify.app/) |
+| ![Tasky](https://img.shields.io/badge/Tasky-F24E1E?style=for-the-badge&logo=netlify&logoColor=white)     | Freelancing related webside   | [Live Demo](https://symphonious-bubblegum-ad2f44.netlify.app/) |
+
+---
 
 
 
