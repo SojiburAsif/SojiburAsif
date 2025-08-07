@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Sojibur+Rahman+Asif;MERN+Stack+Developer;JavaScript+%7C+React+%7C+Node+%7C+MongoDB;CSE+Student+%7C+UI%2FUX+Enthusiast;Passionate+about+Problem+Solving;Open+to+Internships+%26+Entry+Level+Roles;Let's+build+something+amazing+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Sojibur+Rahman+Asif;MERN+Stack+Developer;JavaScript+%7C+React+%7C+Node+%7C+MongoDB;CSE+Student;Open+to+Internships+%26+Entry+Level+Roles;Let's+build+something+amazing+together!" alt="Typing SVG" />
 </p>
+
 
 # 👋 Hi, I'm Sojibur Rahman  
 📍 From Bangladesh | 📫 sojiburrahman.web@gmail.com  
