@@ -15,10 +15,10 @@
 
 ## 🚀 Reach me out  
 <p align="center" style="text-decoration: none;">
-  <a href="https://www.linkedin.com/in/sojwibur-rahman-asif/" target="_blank" style="margin: 0 15px; text-decoration: none;">
+  <a href="https://www.linkedin.com/in/sojwibur-rahman-asif/" target="blank" style="margin: 0 15px; text-decoration: none;">
     <img height="60" src="https://img.icons8.com/color/96/228BE6/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/Sojibburrahmanasif" target="_blank" style="margin: 0 15px; text-decoration: none;">
+  <a href="https://www.facebook.com/Sojibburrahmanasif" target="blank" style="margin: 0 15px; text-decoration: none;">
     <img height="60" src="https://img.icons8.com/color/96/3b5998/facebook-new.png" alt="Facebook"/>
   </a>
   <a href="https://wa.me/8801840587095" target="_blank" style="margin: 0 15px; text-decoration: none;">
@@ -37,8 +37,29 @@
 
 ## 🧠 Technologies that I know  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,redux,firebase" alt="Tech Icons" />
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
 </p>
+
+<p align="center">
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+</p>
+
+<p align="center">
+  <!-- Row 3 -->
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+</p>
+
 
 ---
 
