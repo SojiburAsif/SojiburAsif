@@ -61,18 +61,17 @@
 
 ---
 
+# 👨‍💻 About Me
+
+Hi, I'm **Sojibur Rahman Asif** — a passionate and self-motivated Computer Science student with a strong focus on **MERN Stack development**. Currently pursuing my **Diploma in CSE**, I enjoy learning new technologies and building meaningful full-stack applications.
+
+---
 ## 📌 Current overview  
 - 🌱 I'm working – In Programming Hero.  
 - 🚀 I'm exploring – Advance motion graphics for web.  
 - 🤝 I'm looking – To collaborate on open source projects.  
 - 🧑‍🏫 I'm trying – To help people learn web development.  
 - 🧠 Fun fact – I love to make complex origami and I can speak 5 languages.
-
----
-
-# 👨‍💻 About Me
-
-Hi, I'm **Sojibur Rahman Asif** — a passionate and self-motivated Computer Science student with a strong focus on **MERN Stack development**. Currently pursuing my **Diploma in CSE**, I enjoy learning new technologies and building meaningful full-stack applications.
 
 ---
 
