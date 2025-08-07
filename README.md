@@ -102,23 +102,33 @@ Currently pursuing my Diploma in CSE, I enjoy learning new technologies and buil
 
 ---
 
-## 💼 Job Ready Skills  
+---
 
-- ✅ Strong foundation in **JavaScript**, **React.js**, and **Node.js**  
-- ✅ Experience with **REST APIs**, **Firebase Authentication**, and **MongoDB**  
-- ✅ Familiarity with **TypeScript** for safer and scalable code  
-- ✅ Writing **unit tests** and **integration tests** using **Jest**  
-- ✅ Understanding of **state management** with **Redux** and **React Query**  
-- ✅ Version control with **Git & GitHub** including branching and pull requests  
-- ✅ Deployment & hosting with **Netlify**, **Vercel**, and **Docker** containers  
-- ✅ Responsive design using **Tailwind CSS** and **Bootstrap**  
-- ✅ Code quality tools: **ESLint**, **Prettier** for consistent formatting  
-- ✅ Agile methodologies and collaborative team workflows  
-- ✅ Good communication skills and eagerness to learn and grow  
-- ✅ Problem-solving mindset & ability to debug complex issues  
-- ✅ Open to feedback and quick adaptation to new tools and frameworks  
+## 💼 Ready for Job  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ready_for_Job-%F0%9F%91%8D-green?style=for-the-badge" alt="Ready for Job" />
+</p>
+
+I am prepared to contribute and grow in a dynamic development team. Here's why you should consider me:
+
+- 🚀 **Fast Learner:** Quickly adapt to new technologies and challenges  
+- 💻 **Strong Fundamentals:** Solid skills in JavaScript, React, Node.js, and database management  
+- 🤝 **Team Player:** Communicative and collaborative in team environments  
+- 🧹 **Clean Code Enthusiast:** Focused on writing maintainable, well-documented code  
+- 🧪 **Quality Driven:** Testing with Jest and ensuring code quality with ESLint & Prettier  
+- ☁️ **Deployment Ready:** Comfortable with deploying apps using Netlify, Vercel, and Docker basics  
+- 📈 **Growth Mindset:** Always eager to learn, improve, and tackle real-world problems  
+- 🔧 **Problem Solver:** Effective debugging skills and proactive in finding solutions  
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Let's Work Together" width="200" />
+</p>
+
+---
+
 
 
 
