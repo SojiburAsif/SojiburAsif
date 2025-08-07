@@ -3,8 +3,14 @@
 </p>
 
 <p align="center">
+  <b>MERN Stack Web Developer | CSE Student | Passionate about UI/UX</b><br />
+  📍 From Bangladesh &nbsp; | &nbsp; 📫 sojiburrahman.web@gmail.com
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Sojibur+Rahman+Asif;MERN+Stack+Developer;JavaScript+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
+
 
 # 👋 Hi, I'm Sojibur Rahman 
 📍 From Bangladesh | 📫 sojiburrahman.web@gmail.com  
