@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/PZmvs5Zw/adam-bidd-a-pixel-art-style-of-a-20.png" alt="Banner" />
+  <img src="https://i.ibb.co.com/ymYXWvsK/f9b88deeae101d6a8572063bb63c286e.gif" alt="Banner" />
 </p>
 
 <p align="center">
