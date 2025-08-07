@@ -15,22 +15,18 @@
 
 ## 🚀 Reach me out  
 <p align="center" style="text-decoration: none;">
-  <a href="https://www.linkedin.com/in/sojwibur-rahman-asif/" target="blank" style="margin: 0 15px; text-decoration: none;">
+  <a href="https://www.linkedin.com/in/sojwibur-rahman-asif/" ">
     <img height="60" src="https://img.icons8.com/color/96/228BE6/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/Sojibburrahmanasif" target="blank" style="margin: 0 15px; text-decoration: none;">
+  <a href="https://www.facebook.com/Sojibburrahmanasif"  ">
     <img height="60" src="https://img.icons8.com/color/96/3b5998/facebook-new.png" alt="Facebook"/>
   </a>
-  <a href="https://wa.me/8801840587095" target="_blank" style="margin: 0 15px; text-decoration: none;">
+  <a href="https://wa.me/8801840587095";">
     <img height="60" src="https://img.icons8.com/color/96/25D366/whatsapp.png" alt="WhatsApp"/>
   </a>
 </p>
 
 
-
-<p align="center" style="color:#00f7ff">
-  📞 WhatsApp: +8801840587095
-</p>
 
 
 ---
