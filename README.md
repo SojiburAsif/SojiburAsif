@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/B55NJ1CT/iS2N04.gif" />
+  <img src="https://i.ibb.co.com/PZmvs5Zw/adam-bidd-a-pixel-art-style-of-a-20.png" alt="Banner" style="width:100%; max-width:1200px;" />
 </p>
 
-<p align="center">
-  <img src="[https://i.ibb.co.com/B55NJ1CT/iS2N04.gif](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+I'm+Sojibur+Rahman+Asif;MERN+Stack+Developer;JavaScript+Enthusiast;Problem+Solver)" alt="Typing SVG" />
-</p>
+<h2 align="center">👋 Hi, I'm Sojibur Rahman Asif</h2>
+<h4 align="center">MERN Stack Web Developer | CSE Student | UI/UX Enthusiast</h4>
 
 
 
