@@ -75,19 +75,18 @@
 - [A cleaner approach to write JavaScript (Bonus tips at the end)](#)
 
 ---
-## 👋 Hi, I'm Sojibur Rahman Asif
+👨‍💻 About Me
+Hi, I'm Sojibur Rahman Asif — a passionate and self-motivated Computer Science student with a strong focus on MERN Stack development. Currently pursuing my Diploma in CSE, I enjoy learning new technologies and building meaningful full-stack applications.
 
-I'm a passionate and self-driven **Computer Science and Engineering** student, currently pursuing my Diploma.  
-I specialize in **MERN Stack Web Development** and love solving real-world problems using code.
+🔭 Working on real-world projects including a freelancing platform & work services marketplace
 
-- 🔧 Experienced with: **JavaScript, React.js, Node.js, Firebase, MongoDB**
-- 🧩 Currently exploring: **Next.js**, scalable apps, and backend systems
-- 🚀 Building: A **freelancing platform** and **service-sharing marketplace**
-- 📚 I believe in: *Learning by doing* and helping others grow in tech
-- ✈️ Outside of tech: I love **traveling**, exploring, and gaining new experiences
+🌱 Exploring Next.js, backend optimization, and database design
 
-**💡 Open to:** Internships & Entry-Level Web Development Roles  
-**📬 Let’s connect if you're looking for someone enthusiastic, committed, and ready to grow together.**
+🧠 Strong foundation in JavaScript, React, Node.js, Firebase, MongoDB, and more
+
+🤝 Open to Internships & Entry-Level Web Development opportunities
+
+🌍 Outside of coding, I love traveling, exploring ideas, and sharing knowledge
 
 ---
 
