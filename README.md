@@ -102,7 +102,6 @@ Feel free to connect with me!
 </p>
 
 
-=======
 
 ## 💻 Skills  
 <p align="center">
