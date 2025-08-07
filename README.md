@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Sojibur+Rahman+Asif;MERN+Stack+Developer;JavaScript+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://i.ibb.co.com/DP1DSBXD/db039626bfa2ecc53f0f6e7f335aef4c.gif" alt="Typing SVG" />
 </p>
 
 
