@@ -15,16 +15,17 @@
 
 ## 🚀 Reach me out  
 <p align="center" style="text-decoration: none;">
-  <a href="https://www.linkedin.com/in/sojwibur-rahman-asif/" ">
+  <a href="https://www.linkedin.com/in/sojwibur-rahman-asif/" style="margin: 0 15px;">
     <img height="60" src="https://img.icons8.com/color/96/228BE6/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/Sojibburrahmanasif"  ">
+  <a href="https://www.facebook.com/Sojibburrahmanasif" style="margin: 0 15px;">
     <img height="60" src="https://img.icons8.com/color/96/3b5998/facebook-new.png" alt="Facebook"/>
   </a>
-  <a href="https://wa.me/8801840587095";">
+  <a href="https://wa.me/8801840587095" style="margin: 0 15px;">
     <img height="60" src="https://img.icons8.com/color/96/25D366/whatsapp.png" alt="WhatsApp"/>
   </a>
 </p>
+
 
 
 
