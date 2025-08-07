@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/pGmk62t/tumblr-outwxnanpp1u79o2lo1-1280.gif" alt="Banner" style="width:100%; max-width:1200px;" />
+  <img src="https://i.ibb.co.com/pGmk62t/tumblr-outwxnanpp1u79o2lo1-1280.gif" alt="Banner"" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Sojibur+Rahman+Asif;MERN+Stack+Developer;JavaScript+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Sojibur+Rahman+Asif;MERN+Stack+Developer;WebDevloper" alt="Typing SVG" />
 </p>
 
 # 👋 Hi, I'm Sojibur Rahman  
