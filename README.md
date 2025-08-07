@@ -75,14 +75,33 @@
 - [A cleaner approach to write JavaScript (Bonus tips at the end)](#)
 
 ---
+## 👋 Hi, I'm Sojibur Rahman Asif
 
-## 🌛 About Me  
-I'm a passionate **MERN Stack** web development student, currently working on real-world projects to sharpen my skills.  
-- Exploring **Next.js** and building scalable full-stack apps  
-- Currently developing a **freelancing platform** and **work services marketplace**  
-- Actively learning backend optimization and database design  
+I'm a passionate and self-driven **Computer Science and Engineering** student, currently pursuing my Diploma.  
+I specialize in **MERN Stack Web Development** and love solving real-world problems using code.
+
+- 🔧 Experienced with: **JavaScript, React.js, Node.js, Firebase, MongoDB**
+- 🧩 Currently exploring: **Next.js**, scalable apps, and backend systems
+- 🚀 Building: A **freelancing platform** and **service-sharing marketplace**
+- 📚 I believe in: *Learning by doing* and helping others grow in tech
+- ✈️ Outside of tech: I love **traveling**, exploring, and gaining new experiences
+
+**💡 Open to:** Internships & Entry-Level Web Development Roles  
+**📬 Let’s connect if you're looking for someone enthusiastic, committed, and ready to grow together.**
 
 ---
+
+### 💻 Tech Stack I Use
+
+<p align="center" style="margin-top: 20px;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind" alt="Tech Icons" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap,redux,firebase,git,github,vscode,figma" alt="More Icons" />
+</p>
+
+
+=======
 
 ## 💻 Skills  
 <p align="center">
