@@ -14,17 +14,8 @@
 ---
 
 ## 🚀 Reach me out  
-<p align="center" style="text-decoration: none;">
-  <a href="https://www.linkedin.com/in/sojwibur-rahman-asif/" style="margin: 0 15px;">
-    <img height="60" src="https://img.icons8.com/color/96/228BE6/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/Sojibburrahmanasif" style="margin: 0 15px;">
-    <img height="60" src="https://img.icons8.com/color/96/3b5998/facebook-new.png" alt="Facebook"/>
-  </a>
-  <a href="https://wa.me/8801840587095" style="margin: 0 15px;">
-    <img height="60" src="https://img.icons8.com/color/96/25D366/whatsapp.png" alt="WhatsApp"/>
-  </a>
-</p>
+📫 Find me on:  
+[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com) | [GitHub](https://github.com/yourusername)
 
 
 
@@ -75,21 +66,31 @@
 - [A cleaner approach to write JavaScript (Bonus tips at the end)](#)
 
 ---
-👨‍💻 About Me
+# 👨‍💻 About Me
 
-Hi, I'm Sojibur Rahman Asif — a passionate and self-motivated Computer Science student with a strong focus on MERN Stack development. Currently pursuing my Diploma in CSE, I enjoy learning new technologies and building meaningful full-stack applications.
-
-🔭 Working on real-world projects including a freelancing platform & work services marketplace
-
-🌱 Exploring Next.js, backend optimization, and database design
-
-🧠 Strong foundation in JavaScript, React, Node.js, Firebase, MongoDB, and more
-
-🤝 Open to Internships & Entry-Level Web Development opportunities
-
-🌍 Outside of coding, I love traveling, exploring ideas, and sharing knowledge
+Hi, I'm **Sojibur Rahman Asif** — a passionate and self-motivated Computer Science student with a strong focus on **MERN Stack development**. Currently pursuing my **Diploma in CSE**, I enjoy learning new technologies and building meaningful full-stack applications.
 
 ---
+
+### 🔭 What I'm Working On
+- Real-world projects including a freelancing platform & work services marketplace
+
+### 🌱 What I'm Learning
+- Next.js, backend optimization, and database design
+
+### 🧠 Skills & Technologies
+- JavaScript | React | Node.js | Firebase | MongoDB | Express.js | HTML | CSS
+
+### 🤝 Open To
+- Internships & Entry-Level Web Development opportunities
+
+### 🌍 Outside of Coding
+- Traveling, exploring new ideas, and sharing knowledge
+
+---
+
+Feel free to connect with me!
+
 
 ### 💻 Tech Stack I Use
 
