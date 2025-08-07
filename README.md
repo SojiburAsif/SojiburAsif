@@ -124,7 +124,7 @@ I am prepared to contribute and grow in a dynamic development team. Here's why y
 ## 📞 Contact & Location
 
 - 📱 Phone: +8801840587095  
-- 🌍 Location: Dinajpur, Bangladesh - 5200  
+- 🌍 Location: Bangladesh  Dinajpu 5200  
 - ❤️ I love coding and building awesome projects!  
 
 ---
