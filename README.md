@@ -14,8 +14,18 @@
 ---
 
 ## 🚀 Reach me out  
-📫 Find me on:  
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com) | [GitHub](https://github.com/yourusername)
+<p align="center" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/sojwibur-rahman-asif/" style="margin: 0 15px;">
+    <img height="60" src="https://img.icons8.com/color/96/228BE6/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/Sojibburrahmanasif" style="margin: 0 15px;">
+    <img height="60" src="https://img.icons8.com/color/96/3b5998/facebook-new.png" alt="Facebook"/>
+  </a>
+  <a href="https://wa.me/8801840587095" style="margin: 0 15px;">
+    <img height="60" src="https://img.icons8.com/color/96/25D366/whatsapp.png" alt="WhatsApp"/>
+  </a>
+</p>
+
 
 
 
@@ -60,12 +70,6 @@
 
 ---
 
-## 📝 My recent blog posts  
-- [Common interview questions that you need to know as a junior JavaScript developer](#)  
-- [What the heck is JSX in React](#)  
-- [A cleaner approach to write JavaScript (Bonus tips at the end)](#)
-
----
 # 👨‍💻 About Me
 
 Hi, I'm **Sojibur Rahman Asif** — a passionate and self-motivated Computer Science student with a strong focus on **MERN Stack development**. Currently pursuing my **Diploma in CSE**, I enjoy learning new technologies and building meaningful full-stack applications.
@@ -120,11 +124,13 @@ Feel free to connect with me!
 
 ---
 
-## 🚀 Projects  
-| Project      | Description                     | Live Demo                                                                       |
-|--------------|---------------------------------|---------------------------------------------------------------------------------|
-| **WorkLoop** | Work services related website   | [View Demo](https://celadon-griffin-404747.netlify.app/)                        |
-| **Tasky**    | Freelancing platform web app    | [View Demo](https://symphonious-bubblegum-ad2f44.netlify.app/)                  |
+### 🚀 Projects
+
+| Project      | Description                  | Live Demo                                                                      |
+|--------------|------------------------------|--------------------------------------------------------------------------------|
+| **WorkLoop** | Work services related website | [View Demo](https://celadon-griffin-404747.netlify.app/)                       |
+| **Tasky**    | Freelancing platform web app | [View Demo](https://symphonious-bubblegum-ad2f44.netlify.app/)                 |
+| **WorkFleed**| Work services & task manager | [View Demo](https://resonant-syrniki-b1e2dc.netlify.app/)                      |
 
 ---
 
