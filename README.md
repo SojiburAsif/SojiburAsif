@@ -121,19 +121,15 @@ I am prepared to contribute and grow in a dynamic development team. Here's why y
 
 ---
 
-## ⚡ Skills Performance
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sojiburasif&label=Profile%20views&color=0e75b6&style=flat" alt="sojiburasif" />
+</p>
 
-| Skill       | Proficiency                                        |
-|-------------|--------------------------------------------------|
-| JavaScript  | ![90%](https://progress-bar.dev/90/?color=00f7ff&suffix=%25)    |
-| React.js    | ![85%](https://progress-bar.dev/85/?color=61dafb&suffix=%25)    |
-| Node.js     | ![80%](https://progress-bar.dev/80/?color=3c873a&suffix=%25)    |
-| MongoDB     | ![75%](https://progress-bar.dev/75/?color=47a248&suffix=%25)    |
-| TypeScript  | ![70%](https://progress-bar.dev/70/?color=3178c6&suffix=%25)    |
-| Redux       | ![65%](https://progress-bar.dev/65/?color=764abc&suffix=%25)    |
-| Firebase    | ![60%](https://progress-bar.dev/60/?color=ffca28&suffix=%25)    |
-| Docker     | ![50%](https://progress-bar.dev/50/?color=2496ed&suffix=%25)    |
-
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sojiburasif" alt="sojiburasif" />
+  </a>
+</p>
 ---
 
 ## 📊 GitHub Stats  
@@ -153,12 +149,4 @@ I am prepared to contribute and grow in a dynamic development team. Here's why y
 
 [![](https://visitcount.itsvg.in/api?id=SojiburAsif&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sojiburasif&label=Profile%20views&color=0e75b6&style=flat" alt="sojiburasif" />
-</p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sojiburasif" alt="sojiburasif" />
-  </a>
-</p>
