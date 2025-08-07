@@ -125,14 +125,18 @@ I am prepared to contribute and grow in a dynamic development team. Here's why y
 
 
 
----
+## ⚡ Skills Performance
+
 | Skill         | Proficiency       |
 |---------------|-------------------|
-| ![JS](https://skillicons.dev/icons?i=js) JavaScript    | ![90%](https://progress-bar.dev/90/?color=00f7ff&suffix=%25)  |
-| ![React](https://skillicons.dev/icons?i=react) React.js      | ![85%](https://progress-bar.dev/85/?color=61dafb&suffix=%25)  |
-| ![Node](https://skillicons.dev/icons?i=nodejs) Node.js       | ![80%](https://progress-bar.dev/80/?color=3c873a&suffix=%25)  |
-| ![Mongo](https://skillicons.dev/icons?i=mongodb) MongoDB       | ![75%](https://progress-bar.dev/75/?color=47a248&suffix=%25)  |
-| ![TS](https://skillicons.dev/icons?i=typescript) TypeScript    | ![70%](https://progress-bar.dev/70/?color=3178c6&suffix=%25)  |
+| JavaScript    | ![90%](https://progress-bar.dev/90/?color=00f7ff&suffix=%25)  |
+| React.js      | ![85%](https://progress-bar.dev/85/?color=61dafb&suffix=%25)  |
+| Node.js       | ![80%](https://progress-bar.dev/80/?color=3c873a&suffix=%25)  |
+| MongoDB       | ![75%](https://progress-bar.dev/75/?color=47a248&suffix=%25)  |
+| TypeScript    | ![70%](https://progress-bar.dev/70/?color=3178c6&suffix=%25)  |
+| Redux         | ![65%](https://progress-bar.dev/65/?color=764abc&suffix=%25)  |
+| Firebase      | ![60%](https://progress-bar.dev/60/?color=ffca28&suffix=%25)  |
+| Docker       | ![50%](https://progress-bar.dev/50/?color=2496ed&suffix=%25)  |
 
 
 
