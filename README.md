@@ -121,6 +121,14 @@ I am prepared to contribute and grow in a dynamic development team. Here's why y
 
 ---
 
+## 📞 Contact & Location
+
+- 📱 Phone: +8801840587095  
+- 🌍 Location: Dinajpur, Bangladesh - 5200  
+- ❤️ I love coding and building awesome projects!  
+
+---
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sojiburasif&label=Profile%20views&color=0e75b6&style=flat" alt="sojiburasif" />
 </p>
@@ -130,6 +138,7 @@ I am prepared to contribute and grow in a dynamic development team. Here's why y
     <img src="https://github-profile-trophy.vercel.app/?username=sojiburasif" alt="sojiburasif" />
   </a>
 </p>
+
 ---
 
 ## 📊 GitHub Stats  
@@ -148,5 +157,3 @@ I am prepared to contribute and grow in a dynamic development team. Here's why y
 ---
 
 [![](https://visitcount.itsvg.in/api?id=SojiburAsif&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
