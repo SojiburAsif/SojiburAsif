@@ -7,8 +7,8 @@
 </p>
 
 
-# 👋 Hi, I'm Sojibur Rahman  
-📍 From Bangladesh | 📫 sojiburrahman.web@gmail.com  
+#  Hi, I'm Sojibur Rahman  
+📍 From Bangladesh | 📫 asif81534@gmail.com  
 ### Full Stack MERN Developer | JavaScript  | React JS | MongoDB | Node JS
 
 ---
