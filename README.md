@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/ymYXWvsK/f9b88deeae101d6a8572063bb63c286e.gif" alt="Banner" style="width:100%; max-width:1200px;" />
+  <img src="https://i.ibb.co.com/xq0mL26W/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Banner" style="width:100%; max-width:1200px;" />
 </p>
 
 <!-- Typing SVG -->
