@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif" alt="Banner" style="width:100%; max-width:1200px;" />
+  <img src="https://i.ibb.co.com/RGHRfxzn/1697453573297-e-2147483647-v-beta-t-C8-Zqg-MEYi-C1-QXl-Ep-Xf-8-Aarp-VF48qh-R7l-Ad0-Zgrb-Q7-M.gif" alt="Banner" style="width:100%; max-width:1200px;" />
 </p>
 
 <!-- Typing SVG -->
