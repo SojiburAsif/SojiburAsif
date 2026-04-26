@@ -2,26 +2,13 @@
 <!--                     COVER / HEADER                          -->
 <!-- ============================================================ -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:0a0a2e,100:000000&height=260&section=header&text=Sojibur%20Rahman%20Asif&fontSize=48&fontColor=00e5ff&fontAlignY=40&fontFamily=Titillium+Web&desc=Full%20Stack%20Web%20Developer&descSize=20&descColor=a855f7&descAlignY=62&animation=fadeIn" width="100%" />
-</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Titillium+Web&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+%7C+Next.js+%7C+PostgreSQL;Building+Scalable+%26+Impactful+Web+Apps;Open+to+Full-Time+%26+Freelance+Opportunities" alt="Typing SVG" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=header" width="100%" />
 
-<br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=800&color=00d4ff&center=true&vCenter=true&width=800&lines=Sojibur+Rahman+Asif;Full+Stack+Web+Developer;MERN+&+Next.js+Expert" alt="Typing SVG" />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SojiburAsif&label=Profile+Views&color=00e5ff&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SojiburAsif&theme=radical&no-frame=true&no-bg=true&margin-w=12&column=7" alt="Trophies" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=80&section=footer" width="100%" />
 </div>
 
 <br/>
@@ -32,83 +19,32 @@
 <!--                       ABOUT ME                               -->
 <!-- ============================================================ -->
 
-<h2 align="center">🧑‍💻 About Me</h2>
+<h2>🧑‍💻 About Me</h2>
 
-<p align="center">
+<p>
 I'm a passionate <b>Full Stack Web Developer</b> from <b>Dinajpur, Bangladesh</b>, specializing in the <b>MERN stack, Next.js, and Prisma ORM</b>.<br/>
-I enjoy turning complex ideas into real, scalable products — from crafting responsive frontends to designing robust backend architectures.<br/>
+I enjoy turning complex ideas into real, scalable products from crafting responsive frontends to designing robust backend architectures.<br/>
 My focus is writing <b>clean, maintainable code</b> and delivering high-performance products that create real value.
 </p>
 
 <br/>
 
-<div align="center">
+**🚀 Quick Facts**
 
-| | |
-|:---:|:---|
-| 🌍 | Based in **Dinajpur, Bangladesh** |
-| 🔭 | Building **Workfleed**, **ServZEN** & **MentorFlow** |
-| 🧠 | Deep diving into **Next.js, TypeScript & Docker** |
-| 🤝 | Open to collaborating on **MERN / Next.js Projects** |
-| 👨‍💻 | Portfolio: **[sojiburasif.vercel.app](https://sojiburasif.vercel.app/)** |
-| 📫 | Reach me at: **sojiburrahmanasif@gmail.com** |
-| 📞 | WhatsApp: **+880 1840 587095** |
-
-</div>
+- 🌍 &nbsp; Based in **[Dinajpur, Bangladesh](https://maps.google.com/?q=Dinajpur,Bangladesh)**
+- 🔭 &nbsp; Building **[Workfleed](https://resonant-syrniki-b1e2dc.netlify.app/)**, **[ServZEN](https://servi-zen-fontend.vercel.app/)** & **[MentorFlow](https://mentor-flow-fontend.vercel.app/)**
+- 🧠 &nbsp; Deep diving into **Next.js, TypeScript & Docker**
+- 🤝 &nbsp; Open to collaborating on **MERN / Next.js Projects**
+- 👨‍💻 &nbsp; Portfolio: **[sojiburasif.vercel.app](https://sojiburasif.vercel.app/)**
+- 📫 &nbsp; Reach me at: **[sojiburrahmanasif@gmail.com](mailto:sojiburrahmanasif@gmail.com)**
+- 📞 &nbsp; WhatsApp: **[+880 1840 587095](https://wa.me/8801840587095)**
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ============================================================ -->
-<!--                     PROFILE CARD                             -->
-<!-- ============================================================ -->
-
-<h2 align="center">🪪 Profile Card</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-<img src="https://avatars.githubusercontent.com/SojiburAsif" width="100" style="border-radius:50%" alt="Sojibur"/>
-
-<br/><br/>
-
-**Sojibur Rahman Asif**
-
-`Full Stack Web Developer`
-
-![](https://img.shields.io/badge/💼_Open_to_Work-0d0d0d?style=flat-square&color=00e5ff)
-
-</td>
-<td align="left" width="50%">
-
-🚀 &nbsp; **React.js** · **Next.js** · **Node.js**
-
-🗄️ &nbsp; **PostgreSQL** · **MongoDB** · **Prisma**
-
-🔐 &nbsp; **JWT** · **NextAuth** · **BetterAuth**
-
-💳 &nbsp; **Stripe** · **SSL Commerz**
-
-🛠️ &nbsp; **Git** · **Docker** · **Vercel**
-
-📍 &nbsp; Dinajpur, Bangladesh 🇧🇩
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ============================================================ -->
-<!--                    REACH ME OUT                              -->
+<!--                  REACH ME OUT (NEON BUTTONS)                 -->
 <!-- ============================================================ -->
 
 <h2 align="center">📡 Reach Me Out</h2>
@@ -116,23 +52,19 @@ My focus is writing <b>clean, maintainable code</b> and delivering high-performa
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sojwibur-rahman-asif/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="38" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="52" alt="LinkedIn" />
+</a>&nbsp;
 <a href="https://github.com/SojiburAsif" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="38" alt="GitHub" />
-</a>
-&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="52" alt="GitHub" />
+</a>&nbsp;
 <a href="https://wa.me/8801840587095" target="_blank">
-  <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" height="38" alt="WhatsApp" />
-</a>
-&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-%20-18181b?style=for-the-badge&logo=whatsapp&logoColor=25D366" height="52" alt="WhatsApp" />
+</a>&nbsp;
 <a href="mailto:sojiburrahmanasif@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="38" alt="Email" />
-</a>
-&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-%20-18181b?style=for-the-badge&logo=gmail&logoColor=EA4335" height="52" alt="Gmail" />
+</a>&nbsp;
 <a href="https://sojiburasif.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-a855f7?style=for-the-badge&logo=react&logoColor=white&labelColor=a855f7" height="38" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/-%20-18181b?style=for-the-badge&logo=react&logoColor=61DAFB" height="52" alt="Portfolio" />
 </a>
 
 </div>
@@ -151,10 +83,55 @@ My focus is writing <b>clean, maintainable code</b> and delivering high-performa
 
 <div align="center">
 
-<p><b>🎨 &nbsp; Frontend & Design</b></p>
+<p><b>🎨 &nbsp; Frontend &amp; Design</b></p>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" height="55" />
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="52" alt="HTML5" /></a>&nbsp;
+<a href="https://www.w3.org/TR/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="52" alt="CSS3" /></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="52" alt="JavaScript" /></a>&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="52" alt="TypeScript" /></a>&nbsp;
+<a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="52" alt="React" /></a>&nbsp;
+<a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="52" alt="Next.js" /></a>&nbsp;
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="52" alt="Tailwind CSS" /></a>&nbsp;
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="52" alt="Bootstrap" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<p><b>⚙️ &nbsp; Backend &amp; Database</b></p>
+
+<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="52" alt="Node.js" /></a>&nbsp;
+<a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=dark" height="52" alt="Express.js" /></a>&nbsp;
+<a href="https://www.prisma.io/" target="_blank"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" height="52" alt="Prisma ORM" /></a>&nbsp;
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="52" alt="PostgreSQL" /></a>&nbsp;
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="52" alt="MongoDB" /></a>&nbsp;
+<a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="52" alt="Firebase" /></a>&nbsp;
+<a href="https://graphql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=graphql&theme=dark" height="52" alt="GraphQL" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<p><b>🔐 &nbsp; Auth &amp; Payments</b></p>
+
+<a href="https://jwt.io/" target="_blank">
+  <img src="https://img.shields.io/badge/JWT-0a0a2e?style=for-the-badge&logo=jsonwebtokens&logoColor=00e5ff&color=0a0a2e" height="42" alt="JWT" />
+</a>&nbsp;
+<a href="https://next-auth.js.org/" target="_blank">
+  <img src="https://img.shields.io/badge/NextAuth.js-0a0a2e?style=for-the-badge&logo=next.js&logoColor=00e5ff&color=0a0a2e" height="42" alt="NextAuth.js" />
+</a>&nbsp;
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/BetterAuth-0a0a2e?style=for-the-badge&logo=shield&logoColor=a855f7&color=0a0a2e" height="42" alt="BetterAuth" />
+</a>&nbsp;
+<a href="https://stripe.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Stripe-0a0a2e?style=for-the-badge&logo=stripe&logoColor=635BFF&color=0a0a2e" height="42" alt="Stripe" />
+</a>&nbsp;
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/SSL_Commerz-0a0a2e?style=for-the-badge&logoColor=00A651&color=0a0a2e" height="42" alt="SSL Commerz" />
 </a>
 
 </div>
@@ -163,43 +140,15 @@ My focus is writing <b>clean, maintainable code</b> and delivering high-performa
 
 <div align="center">
 
-<p><b>⚙️ &nbsp; Backend & Database</b></p>
+<p><b>🔧 &nbsp; DevOps, Tools &amp; Others</b></p>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,firebase,graphql&theme=dark" height="55" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<p><b>🔐 &nbsp; Auth & Payments</b></p>
-
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=00e5ff" height="32" />
-&nbsp;
-<img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=00e5ff" height="32" />
-&nbsp;
-<img src="https://img.shields.io/badge/BetterAuth-1a1a2e?style=for-the-badge&logo=shield&logoColor=a855f7" height="32" />
-&nbsp;
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" height="32" />
-&nbsp;
-<img src="https://img.shields.io/badge/SSL_Commerz-00A651?style=for-the-badge&logoColor=white" height="32" />
-&nbsp;
-<img src="https://img.shields.io/badge/RBAC-0d0d0d?style=for-the-badge&logoColor=00e5ff" height="32" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<p><b>🔧 &nbsp; DevOps, Tools & Others</b></p>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode,postman,figma&theme=dark" height="55" />
-</a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="52" alt="Git" /></a>&nbsp;
+<a href="https://github.com/SojiburAsif" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="52" alt="GitHub" /></a>&nbsp;
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" height="52" alt="Docker" /></a>&nbsp;
+<a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="52" alt="Vercel" /></a>&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="52" alt="VS Code" /></a>&nbsp;
+<a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" height="52" alt="Postman" /></a>&nbsp;
+<a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma&theme=dark" height="52" alt="Figma" /></a>
 
 </div>
 
