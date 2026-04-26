@@ -1,69 +1,89 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-24179
-Fork on GitHub
-8337
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Asif&fontSize=36&fontColor=00e5ff&fontAlignY=40&fontFamily=Titillium+Web&animation=fadeIn" width="100%" />
+</div>
 
-back to edit
+<h3 align="center">🚀 Full Stack Web Developer | CST Student at Dinajpur Polytechnic Institute</h3>
 
-copy-markdown
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sojiburasif&label=Profile%20views&color=00e5ff&style=for-the-badge" alt="sojiburasif" />
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sojiburasif&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</div>
 
-download markdown
+<br/>
 
-download backup
+### 🧑‍💻 About Me
 
-preview
-<h1 align="center">Hi 👋, I'm Sojibur Rahman Asif</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+I'm a passionate **Full Stack Developer** from Bangladesh, currently pursuing my Diploma in Computer Science and Technology (CST). I specialize in the **MERN stack, Next.js, and Prisma ORM**. I enjoy turning complex ideas into real, scalable products. Whether it's crafting responsive frontends or designing robust backend architectures, I love solving problems through code and continuously learning new technologies.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sojiburasif&label=Profile%20views&color=0e75b6&style=flat" alt="sojiburasif" /> </p>
+<table align="center">
+  <tr>
+    <td width="60%">
+      <b>🚀 Current Activities</b><br><br>
+      🌍 &nbsp; Based in <b>Dinajpur, Bangladesh</b><br>
+      🔭 &nbsp; Building <b>ServZEN</b> (Service Marketplace) & <b>ApexTech</b><br>
+      🧠 &nbsp; Deep diving into <b>Next.js, TypeScript & Docker</b><br>
+      🤝 &nbsp; Open to collaborating on <b>MERN / Next.js Projects</b><br>
+      👨‍💻 &nbsp; Portfolio: <a href="https://sojiburasif.netlify.app/">sojiburasif.netlify.app</a><br>
+      📫 &nbsp; Reach me at: <b>asif81534@gmail.com</b><br>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sojiburasif&show_icons=true&locale=en&layout=compact&title_color=00e5ff&text_color=a6adc8&icon_color=00e5ff&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sojiburasif" alt="sojiburasif" /></a> </p>
+---
 
-- 👨‍💻 All of my projects are available at [https://sojiburasif.netlify.app/](https://sojiburasif.netlify.app/)
+### 💻 Technologies & Tools
 
-- 📫 How to reach me **asif81534@gmail.com**
+<div align="center">
+  <p><b>Frontend & Design</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" />
+  </a>
+  <br><br>
+  
+  <p><b>Backend & Database</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,mysql,aws,nginx&theme=dark" />
+  </a>
+  <br><br>
+  
+  <p><b>DevOps & Tools</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,ubuntu,vercel,vscode,postman&theme=dark" />
+  </a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.topcoder.com/members/5200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="5200" height="30" width="40" /></a>
+---
+
+### 📊 GitHub Metrics & Activity
+
+<div align="center">
+  <a href="https://github.com/sojiburasif">
+    <img src="https://github-readme-stats.vercel.app/api?username=sojiburasif&show_icons=true&count_private=true&title_color=00e5ff&text_color=a6adc8&icon_color=00e5ff&bg_color=0d1117&hide_border=true" alt="GitHub stats" width="48%" />
+  </a>
+  <a href="https://github.com/sojiburasif">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sojiburasif&stroke=00e5ff&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakNum=ffffff&currStreakLabel=a6adc8&sideNums=ffffff&sideLabels=a6adc8&dates=a6adc8&hide_border=true" alt="GitHub Streak" width="48%" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/sojiburasif">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sojiburasif&bg_color=0d1117&color=a6adc8&line=00e5ff&point=ffffff&area_color=0d1117&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Commits Graph" width="100%" />
+  </a>
+</div>
+
+---
+<p align="center">
+  <a href="https://www.topcoder.com/members/5200" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="Topcoder" height="30" width="40" />
+  </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sojiburasif&show_icons=true&locale=en&layout=compact" alt="sojiburasif" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sojiburasif&show_icons=true&locale=en" alt="sojiburasif" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sojiburasif&" alt="sojiburasif" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me a Coffee
